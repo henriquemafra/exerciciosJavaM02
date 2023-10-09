@@ -9,7 +9,7 @@ import java.util.Scanner;
  Informe também ao usuário quantas letras tem no nome dele.
  */
 
-public class ExercicioS01 {
+public class ExercicioS01Ex01 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
