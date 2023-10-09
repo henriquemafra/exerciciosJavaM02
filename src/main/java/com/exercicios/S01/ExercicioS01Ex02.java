@@ -1,4 +1,4 @@
-package com.exercicios;
+package com.exercicios.S01;
 /*
  * Crie um programa em Java que, utilizando a classe Scanner, peça ao usuário
  * que digite sua altura (2 ou mais casas depois da vírgula), depois peça que o usuário digite seu peso, 

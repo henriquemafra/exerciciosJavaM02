@@ -1,4 +1,4 @@
-package com.exercicios;
+package com.exercicios.S01;
 /*
  * Crie um programa em Java que, utilizando a classe Scanner, simule uma calculadora.
  * O programa deve pedir um número, depois outro, e por último uma operação.
